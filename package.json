@@ -1,0 +1,27 @@
+{
+  "name": "readme09",
+  "version": "1.0.0",
+  "description": "Nodejs CLI app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sam15-code/Readme09.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "inquirer"
+  ],
+  "author": "Ibtissam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sam15-code/Readme09/issues"
+  },
+  "homepage": "https://github.com/Sam15-code/Readme09#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
