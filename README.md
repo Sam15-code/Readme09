@@ -1,7 +1,7 @@
 
-# Readme
+# Readme generator
 
-## ![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
+## ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 
 ## Table of Contents
@@ -12,15 +12,15 @@
 
 * [Contributers](#contributers)
 
-*[Testing](#testing)
+* [Testing](#testing)
 
-*[License](#license)
+* [License](#license)
 
-*[Usage](#usage)
+* [Usage](#usage)
 
-*[Email](#email)
+* [Email](#email)
 
-*[Username](#username)
+* [Username](#username)
 
 
 
@@ -28,7 +28,7 @@
 
 
 ### Description
-CLI
+Nodejs CLI app
 
 
 ### Installation
@@ -36,23 +36,26 @@ npm i
 
 
 ### Contributers
-Btissam
+__Ibtissam Elbessali__
 
 ### Testing
-manual
+Manual
 
 ### License
-ISC
-[License Info]()
+MIT
+[License Info](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
 
 ### Usage
-open source
+Open source
 
 ### Email
-ibtissam,dab@gmail.com
+If you have anyquestions regarding this project reach me at
+Ibtissam.dxb@gmail.com
 
 ### Username
-sam15code
+Please check my other projects.
+[Github Profile](https://github.com/Sam15-code)
+
 
 
 
