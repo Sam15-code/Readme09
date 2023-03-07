@@ -6,23 +6,19 @@
 
 ## Table of Contents
 
-* [Description](#description)
+- [Readme generator](#readme-generator)
+  - [](#)
+  - [Table of Contents](#table-of-contents)
+    - [Description](#description)
+    - [Installation](#installation)
+    - [Contributers](#contributers)
+    - [Testing](#testing)
+    - [License](#license)
+    - [Usage](#usage)
+    - [Email](#email)
+    - [Username](#username)
 
-* [Installation](#installation)
-
-* [Contributers](#contributers)
-
-* [Testing](#testing)
-
-* [License](#license)
-
-* [Usage](#usage)
-
-* [Email](#email)
-
-* [Username](#username)
-
-
+#Criteria
 
 
 
