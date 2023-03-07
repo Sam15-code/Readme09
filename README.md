@@ -17,6 +17,7 @@
     - [Usage](#usage)
     - [Email](#email)
     - [Username](#username)
+    - [CLI Recording](#cli-recording)
 
 #Criteria
 
@@ -51,6 +52,10 @@ Ibtissam.dxb@gmail.com
 ### Username
 Please check my other projects.
 [Github Profile](https://github.com/Sam15-code)
+
+
+### CLI Recording
+[Google drive](https://drive.google.com/file/d/19LOw8HBeNDiX6hD4UodkVpeakZAPv_Wr/view)
 
 
 
